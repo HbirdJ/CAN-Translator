@@ -1,0 +1,5 @@
+Data Name,CAN ID,Conversion Factor,Length of Data, Data Location
+Battery_Voltage,3B,.2,2,2,3
+Battery_SOC,3CB,.5,2,2,3
+High Res. Speed,B4,.01,2,5,6
+Fuel Injector,520,.1,2,1,2

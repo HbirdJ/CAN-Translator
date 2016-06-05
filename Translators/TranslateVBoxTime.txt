@@ -1,0 +1,2 @@
+Data Name,CAN ID,Conversion Factor,Length of Data, Data Location
+VBox_Time,301,.01,3,1,2,3
