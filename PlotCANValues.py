@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: Bradford Johnson
 Takes text files from VSI-2534 logs
 Translates hex data into engineering units
 Saves plot of requested values
